@@ -1,0 +1,38 @@
+2023-01-16 16:38:50,684 : INFO : test_one :display info
+2023-01-16 16:38:50,684 : WARNING : test_one :warning shown
+2023-01-16 16:38:50,685 : ERROR : test_one :an critical error
+2023-01-16 16:38:50,685 : CRITICAL : test_one :critical issue
+2023-01-16 16:38:51,551 : INFO : test_one :Clicking on the shop link
+2023-01-16 16:38:51,718 : INFO : test_one :added product to cart
+2023-01-16 16:38:54,690 : INFO : test_reg :display info
+2023-01-16 16:38:54,690 : WARNING : test_reg :warning shown
+2023-01-16 16:38:54,690 : ERROR : test_reg :an critical error
+2023-01-16 16:38:54,690 : CRITICAL : test_reg :critical issue
+2023-01-16 16:38:54,690 : INFO : test_reg :firstname added in test Kanwar
+2023-01-16 16:38:54,822 : INFO : test_reg :email id added in the test xyz@gmail.com
+2023-01-16 16:38:54,954 : INFO : test_reg :password added :Kanwar@77
+2023-01-16 16:41:34,548 : INFO : test_one :display info
+2023-01-16 16:41:34,548 : WARNING : test_one :warning shown
+2023-01-16 16:41:34,548 : ERROR : test_one :an critical error
+2023-01-16 16:41:34,564 : CRITICAL : test_one :critical issue
+2023-01-16 16:41:35,580 : INFO : test_one :Clicking on the shop link
+2023-01-16 16:41:35,771 : INFO : test_one :added product to cart
+2023-01-16 16:41:38,804 : INFO : test_reg :display info
+2023-01-16 16:41:38,804 : WARNING : test_reg :warning shown
+2023-01-16 16:41:38,805 : ERROR : test_reg :an critical error
+2023-01-16 16:41:38,805 : CRITICAL : test_reg :critical issue
+2023-01-16 16:41:38,805 : INFO : test_reg :firstname added in test Kanwar
+2023-01-16 16:41:38,987 : INFO : test_reg :email id added in the test xyz@gmail.com
+2023-01-16 16:41:39,154 : INFO : test_reg :password added :Kanwar@77
+2023-01-17 12:19:58,465 : INFO : test_one :display info
+2023-01-17 12:19:58,466 : WARNING : test_one :warning shown
+2023-01-17 12:19:58,466 : ERROR : test_one :an critical error
+2023-01-17 12:19:58,466 : CRITICAL : test_one :critical issue
+2023-01-17 12:19:59,505 : INFO : test_one :Clicking on the shop link
+2023-01-17 12:41:24,758 : INFO : test_reg :display info
+2023-01-17 12:41:24,759 : WARNING : test_reg :warning shown
+2023-01-17 12:41:24,760 : ERROR : test_reg :an critical error
+2023-01-17 12:41:24,761 : CRITICAL : test_reg :critical issue
+2023-01-17 12:41:24,762 : INFO : test_reg :firstname added in test Kanwar
+2023-01-17 12:41:24,966 : INFO : test_reg :email id added in the test xyz@gmail.com
+2023-01-17 12:41:25,085 : INFO : test_reg :password added :Kanwar@77
